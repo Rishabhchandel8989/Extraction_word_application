@@ -1,0 +1,4 @@
+model_name: layoutlm-base
+learning_rate: 0.00005
+batch_size: 8
+epochs: 10
